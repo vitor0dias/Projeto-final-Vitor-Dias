@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu3I6+pLkAOj/47LFqBOdtAsiyxB2CzgqFMDjnFR/a9Q+pDHXwvJ5Y69Q6Q6W8b6tMGH6kELHRN063bJewIQXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor.MONTRO\\Pictures\\Projeto final Vitor Dias\\Projeto final Vitor Dias\\Projeto final Vitor Dias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor.MONTRO\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\vitor.MONTRO\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.exe
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.deps.json
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.runtimeconfig.json
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.dll
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.pdb
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.AssemblyInfo.cs
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.dll
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\refint\Projeto final Vitor Dias.dll
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.pdb
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.genruntimeconfig.cache
+C:\Users\Maria\source\repos\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\ref\Projeto final Vitor Dias.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.exe
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.deps.json
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.runtimeconfig.json
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Projeto final Vitor Dias.pdb
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.csproj.AssemblyReference.cache
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.AssemblyInfoInputs.cache
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.AssemblyInfo.cs
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.csproj.CoreCompileInputs.cache
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\refint\Projeto final Vitor Dias.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.pdb
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.genruntimeconfig.cache
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\ref\Projeto final Vitor Dias.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor.MONTRO\Pictures\Projeto final Vitor Dias\Projeto final Vitor Dias\obj\Debug\net6.0\Projeto final Vitor Dias.csproj.CopyComplete
